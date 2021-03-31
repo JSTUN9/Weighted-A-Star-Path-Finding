@@ -1,3 +1,3 @@
 # Weighted-A-Star-Path-Finding
 
-![alt-text](link)
+![alt-text](https://github.com/JSTUN9/Weighted-A-Star-Path-Finding/blob/main/astar.gif)
